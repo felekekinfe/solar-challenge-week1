@@ -3,5 +3,5 @@
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/solar-challenge-week1.git
+   git clone https://github.com/felekekinfe/solar-challenge-week1.git
    cd solar-challenge-week1
